@@ -1,0 +1,130 @@
+[
+    {
+        "filename": "Cardi B ft Kehlani - Safe (HH Dirty Intro)",
+        "artist": "Cardi B ft Kehlani",
+        "title": "Safe",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Smooth",
+            "R&B"
+        ]
+    },
+    {
+        "filename": "David Guetta Ft. Kelly Rowland - When Loves Takes Over (Extended Mix)",
+        "artist": "David Guetta Ft. Kelly Rowland",
+        "title": "When Love Takes Over",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Dance Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Club",
+            "Anthem"
+        ]
+    },
+    {
+        "filename": "Zaho - C'est chelou",
+        "artist": "Zaho",
+        "title": "C'est chelou",
+        "main_genre": "URBAN",
+        "sub_genre": "R&B FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "French",
+            "R&B"
+        ]
+    },
+    {
+        "filename": "Ozuna - Baila Baila Baila",
+        "artist": "Ozuna",
+        "title": "Baila Baila Baila",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Party",
+            "Dance",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "The Supermen Lovers - Starlight",
+        "artist": "The Supermen Lovers",
+        "title": "Starlight",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "Nu-Disco",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Groovy",
+            "Classic",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "The Weeknd - Blinding Lights (Extended Mix)",
+        "artist": "The Weeknd",
+        "title": "Blinding Lights",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Synthwave",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Anthem"
+        ]
+    },
+    {
+        "filename": "Niska - Snapchat (Deepside Intro 8 Bars)",
+        "artist": "Niska",
+        "title": "Snapchat",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "French",
+            "Trap",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Naps - La Kiffance (Dj R'an Edit)",
+        "artist": "Naps",
+        "title": "La Kiffance",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Party"
+        ]
+    },
+    {
+        "filename": "Superfunk - Last Dance In Copacabana",
+        "artist": "Superfunk",
+        "title": "Last Dance In Copacabana",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "French Touch",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groovy",
+            "French",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "PLK - Hier (feat. SCH)",
+        "artist": "PLK",
+        "title": "Hier (feat. SCH)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "French",
+            "Rap",
+            "Collab"
+        ]
+    }
+]

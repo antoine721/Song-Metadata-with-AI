@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Kaaris - Panama",
+        "artist": "Kaaris",
+        "title": "Panama",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Banger",
+            "French"
+        ]
+    },
+    {
+        "filename": "Kid Cudi - Day 'N' Nite",
+        "artist": "Kid Cudi",
+        "title": "Day 'N' Nite",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop US",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Viral",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Diam's - La Boulette (Génération Nan Nan)",
+        "artist": "Diam's",
+        "title": "La Boulette (Génération Nan Nan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "French",
+            "Banger",
+            "Classic"
+        ]
+    },
+    {
+        "filename": "Fetty Wap - Trap Queen (Dirty)",
+        "artist": "Fetty Wap",
+        "title": "Trap Queen (Dirty)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap US",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Magic System - 1er Gaou (Bloodscars Remix)",
+        "artist": "Magic System",
+        "title": "1er Gaou (Bloodscars Remix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Afrobeat Remix",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Party",
+            "Classic"
+        ]
+    },
+    {
+        "filename": "Jul - Toto Et Ninetta (Original Mix)",
+        "artist": "Jul",
+        "title": "Toto Et Ninetta (Original Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "French",
+            "Groove",
+            "Chill"
+        ]
+    },
+    {
+        "filename": "Teknova - Kernkraft 400 2K19 (Original Mix)",
+        "artist": "Teknova",
+        "title": "Kernkraft 400 2K19 (Original Mix)",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "EDM",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Club",
+            "Banger"
+        ]
+    },
+    {
+        "filename": "Ozuna - Del Mar",
+        "artist": "Ozuna",
+        "title": "Del Mar",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Latin",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "No Limit - LA RUE",
+        "artist": "No Limit",
+        "title": "LA RUE",
+        "main_genre": "URBAN",
+        "sub_genre": "Drill FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "French",
+            "Street",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Soolking, L2B - Tour Du Monde (Extended Mix By Fuvi Clan)",
+        "artist": "Soolking, L2B",
+        "title": "Tour Du Monde (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Extended",
+            "Party",
+            "French"
+        ]
+    }
+]

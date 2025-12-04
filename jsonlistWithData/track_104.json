@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Sexion d'Assaut - Wati House",
+        "artist": "Sexion d'Assaut",
+        "title": "Wati House",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "French Rap"
+        ]
+    },
+    {
+        "filename": "Naps - C'est carré le S",
+        "artist": "Naps",
+        "title": "C'est carré le S",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Jenifer Lopez Feat. Fabulous - Get Right (Extended Version)",
+        "artist": "Jennifer Lopez feat. Fabolous",
+        "title": "Get Right (Extended Version)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Club",
+            "2000s"
+        ]
+    },
+    {
+        "filename": "TKS 2G - Celibataire Polygame",
+        "artist": "TKS 2G",
+        "title": "Celibataire Polygame",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Club",
+            "Antilles"
+        ]
+    },
+    {
+        "filename": "Eiffel 65 - Blue (Da Ba Dee) (Video Edit)",
+        "artist": "Eiffel 65",
+        "title": "Blue (Da Ba Dee) (Video Edit)",
+        "main_genre": "OLDIES",
+        "sub_genre": "Eurodance",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "90s",
+            "Party"
+        ]
+    },
+    {
+        "filename": "Beyonce feat. Jay-Z - Crazy In Love (Extended Version)",
+        "artist": "Beyoncé feat. Jay-Z",
+        "title": "Crazy In Love (Extended Version)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "R&B",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "2000s"
+        ]
+    },
+    {
+        "filename": "Anuel AA - China",
+        "artist": "Anuel AA",
+        "title": "China",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Viral",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Drake - God's Plan (HH Dirty Mixshow)",
+        "artist": "Drake",
+        "title": "God's Plan (HH Dirty Mixshow)",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Viral",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Sean Paul - Give It Up To Me (ORIFURI Shatta Remix)",
+        "artist": "Sean Paul",
+        "title": "Give It Up To Me (ORIFURI Shatta Remix)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Club",
+            "Dancehall"
+        ]
+    },
+    {
+        "filename": "Aqua - Barbie Girl",
+        "artist": "Aqua",
+        "title": "Barbie Girl",
+        "main_genre": "OLDIES",
+        "sub_genre": "Eurodance",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "90s",
+            "Party"
+        ]
+    }
+]

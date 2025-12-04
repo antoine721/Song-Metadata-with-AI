@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Benrucito & Yanni$ - Shatta (Original Mix)",
+        "artist": "Benrucito & Yanni$",
+        "title": "Shatta (Original Mix)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Antilles",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Muttonheads - Make Your Own Kind Of Music",
+        "artist": "Muttonheads",
+        "title": "Make Your Own Kind Of Music",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "French Touch",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Dance",
+            "Feel Good"
+        ]
+    },
+    {
+        "filename": "M.O.B - La Choré Des Shattas",
+        "artist": "M.O.B",
+        "title": "La Choré Des Shattas",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Antilles",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Jul - Ibiza (Extended Version By Fuvi Clan)",
+        "artist": "Jul",
+        "title": "Ibiza (Extended Version By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Summer",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Kylie Minogue - Can't Get You Out Of My Head (Extended Mix By Fuvi Clan)",
+        "artist": "Kylie Minogue",
+        "title": "Can't Get You Out Of My Head (Extended Mix By Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Dance",
+            "Club"
+        ]
+    },
+    {
+        "filename": "ROSALÍA - LA FAMA",
+        "artist": "ROSALÍA",
+        "title": "LA FAMA",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Viral",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Drake, Rihanna - Work (Original Mix)",
+        "artist": "Drake, Rihanna",
+        "title": "Work (Original Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Dancehall",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Viral",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Shay Ft. Niska - Sans Coeur (YANISS Shatta Remix)",
+        "artist": "Shay Ft. Niska",
+        "title": "Sans Coeur (YANISS Shatta Remix)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Club",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Taylor Swift - Shake It Off (Extended Mix By Fuvi Clan)",
+        "artist": "Taylor Swift",
+        "title": "Shake It Off (Extended Mix By Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Dance",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Lacrim - Gustavo Gaviria (Extended Mix By Fuvi Clan)",
+        "artist": "Lacrim",
+        "title": "Gustavo Gaviria (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Street",
+            "Club",
+            "Intense"
+        ]
+    }
+]

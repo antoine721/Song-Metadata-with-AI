@@ -1,0 +1,125 @@
+[
+    {
+        "filename": "Nicky Jam - X",
+        "artist": "Nicky Jam",
+        "title": "X",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Club",
+            "Viral"
+        ]
+    },
+    {
+        "filename": "Gwen Stefani - Rich Girl (Extended By Fuvi Clan)",
+        "artist": "Gwen Stefani",
+        "title": "Rich Girl (Extended By Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "2000s",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Naza - On Va (Extended Mix By Fuvi Clan)",
+        "artist": "Naza",
+        "title": "On Va (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Club",
+            "Groove"
+        ]
+    },
+    {
+        "filename": "Damso - Alpha",
+        "artist": "Damso",
+        "title": "Alpha",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Chill",
+            "Groove"
+        ]
+    },
+    {
+        "filename": "Taïro - Une seule vie",
+        "artist": "Taïro",
+        "title": "Une seule vie",
+        "main_genre": "URBAN",
+        "sub_genre": "Reggae FR",
+        "energy_level": 2,
+        "vibe_tags": [
+            "Chill",
+            "Relax"
+        ]
+    },
+    {
+        "filename": "Denden - Padtal",
+        "artist": "Denden",
+        "title": "Padtal",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Club",
+            "Energetic"
+        ]
+    },
+    {
+        "filename": "Stromae - Alors on danse (Radio Edit)",
+        "artist": "Stromae",
+        "title": "Alors on danse (Radio Edit)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Dance Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Club",
+            "Viral"
+        ]
+    },
+    {
+        "filename": "Lestef KJF Boyz - KJF 4 (Extended Mix By Fuvi Clan)",
+        "artist": "Lestef KJF Boyz",
+        "title": "KJF 4 (Extended Mix By Fuvi Clan)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Bouyon",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Club",
+            "Energetic"
+        ]
+    },
+    {
+        "filename": "Rihanna - Pon De Replay (Da Phonk & Rogerson Remix)",
+        "artist": "Rihanna",
+        "title": "Pon De Replay (Da Phonk & Rogerson Remix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Dancehall",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Club",
+            "Remix"
+        ]
+    },
+    {
+        "filename": "Justice - D.A.N.C.E.",
+        "artist": "Justice",
+        "title": "D.A.N.C.E.",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "French Touch",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Club",
+            "Groove"
+        ]
+    }
+]

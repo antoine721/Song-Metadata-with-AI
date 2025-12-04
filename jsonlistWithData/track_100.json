@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "CKay - love nwantiti (feat. Franglish) (French Remix)",
+        "artist": "CKay",
+        "title": "love nwantiti (feat. Franglish) (French Remix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Afrobeat",
+            "Chill",
+            "Romantic"
+        ]
+    },
+    {
+        "filename": "Migos ft Drake - Walk It Talk It (HH Dirty Mixshow)",
+        "artist": "Migos ft Drake",
+        "title": "Walk It Talk It (HH Dirty Mixshow)",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Rap"
+        ]
+    },
+    {
+        "filename": "Naps Ft. Ninho - 6.3 (Extended Mix By Fuvi Clan)",
+        "artist": "Naps Ft. Ninho",
+        "title": "6.3 (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "French Rap",
+            "Hit",
+            "Street"
+        ]
+    },
+    {
+        "filename": "Rihanna - Bitch Better Have My Money",
+        "artist": "Rihanna",
+        "title": "Bitch Better Have My Money",
+        "main_genre": "URBAN",
+        "sub_genre": "R&B",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Iconic"
+        ]
+    },
+    {
+        "filename": "Lady Gaga - Poker Face (Extended Mix by Fuvi Clan)",
+        "artist": "Lady Gaga",
+        "title": "Poker Face (Extended Mix by Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Dance",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Dua Lipa - Levitating (Extended Mix)",
+        "artist": "Dua Lipa",
+        "title": "Levitating (Extended Mix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Dance",
+            "Viral"
+        ]
+    },
+    {
+        "filename": "Don Omar - Dile (YANISS 2K24 Remix)",
+        "artist": "Don Omar",
+        "title": "Dile (YANISS 2K24 Remix)",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Classic",
+            "Dance",
+            "Latin"
+        ]
+    },
+    {
+        "filename": "Kaaris - Zoo (Extended Mix By Fuvi Clan)",
+        "artist": "Kaaris",
+        "title": "Zoo (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Aggressive",
+            "Club",
+            "Street"
+        ]
+    },
+    {
+        "filename": "TRIANGLE DES BERMUDES - Lunettes (feat. MC YOSHI, Kokosvoice & Mauvais djo)",
+        "artist": "TRIANGLE DES BERMUDES",
+        "title": "Lunettes (feat. MC YOSHI, Kokosvoice & Mauvais djo)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "French Rap",
+            "Groove",
+            "Chill"
+        ]
+    },
+    {
+        "filename": "Shakira - Waka Waka (Extended Mix By Fuvi Clan)",
+        "artist": "Shakira",
+        "title": "Waka Waka (Extended Mix By Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "World",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Anthem",
+            "Dance",
+            "Global"
+        ]
+    }
+]

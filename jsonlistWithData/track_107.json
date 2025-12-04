@@ -1,0 +1,123 @@
+[
+    {
+        "filename": "Nio Garcia - Te Boté (Remix)",
+        "artist": "Nio Garcia",
+        "title": "Te Boté (Remix)",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Drake ft Travis Scott - Fair Trade (HH Dirty Intro)",
+        "artist": "Drake ft Travis Scott",
+        "title": "Fair Trade (HH Dirty Intro)",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Chill"
+        ]
+    },
+    {
+        "filename": "Ultra Naté - Free (Mood II Swing Radio Edit)",
+        "artist": "Ultra Naté",
+        "title": "Free (Mood II Swing Radio Edit)",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "House",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Dancefloor"
+        ]
+    },
+    {
+        "filename": "Ninho - Elle a mal (feat. Niska)",
+        "artist": "Ninho",
+        "title": "Elle a mal (feat. Niska)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Nelly Furtado - Promiscuous",
+        "artist": "Nelly Furtado",
+        "title": "Promiscuous",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Dadju - Reine",
+        "artist": "Dadju",
+        "title": "Reine",
+        "main_genre": "URBAN",
+        "sub_genre": "R&B",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Smooth",
+            "Romantic"
+        ]
+    },
+    {
+        "filename": "Bosh - Slide",
+        "artist": "Bosh",
+        "title": "Slide",
+        "main_genre": "URBAN",
+        "sub_genre": "Drill FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Street",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Karmen, PLK - Alicante (Extended Mix By Fuvi Clan)",
+        "artist": "Karmen, PLK",
+        "title": "Alicante (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Gambi Ft. Hamza - Tentation (Extended Mix By Fuvi Clan)",
+        "artist": "Gambi Ft. Hamza",
+        "title": "Tentation (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Viral",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Dadju - Ma vie",
+        "artist": "Dadju",
+        "title": "Ma vie",
+        "main_genre": "URBAN",
+        "sub_genre": "R&B",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Smooth",
+            "Romantic"
+        ]
+    }
+]

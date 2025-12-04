@@ -1,0 +1,123 @@
+[
+    {
+        "filename": "Charli xcx - Break the Rules",
+        "artist": "Charli XCX",
+        "title": "Break the Rules",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Anthem",
+            "Party"
+        ]
+    },
+    {
+        "filename": "Gym Class Heroes - Stereo Hearts (feat. Adam Levine)",
+        "artist": "Gym Class Heroes",
+        "title": "Stereo Hearts (feat. Adam Levine)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop Rap",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Feel Good",
+            "Radio Hit"
+        ]
+    },
+    {
+        "filename": "Josman - J'aime Bien!",
+        "artist": "Josman",
+        "title": "J'aime Bien!",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Chill",
+            "Groovy"
+        ]
+    },
+    {
+        "filename": "Jose De Rico - Rayos de Sol",
+        "artist": "Jose De Rico",
+        "title": "Rayos de Sol",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Summer",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Mylène Farmer - Désenchantée (Extended Mix By Fuvi Clan)",
+        "artist": "Mylène Farmer",
+        "title": "Désenchantée (Extended Mix By Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "French Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "Remix"
+        ]
+    },
+    {
+        "filename": "K2S - Dougie",
+        "artist": "K2S",
+        "title": "Dougie",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Dancehall",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Dance",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Beyoncé - Crazy In Love (feat. JAY-Z)",
+        "artist": "Beyoncé",
+        "title": "Crazy In Love (feat. JAY-Z)",
+        "main_genre": "URBAN",
+        "sub_genre": "R&B",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Banger",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Carbonne - Imagine (Nerjax Edit)",
+        "artist": "Carbonne",
+        "title": "Imagine (Nerjax Edit)",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "House",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Chill",
+            "Groovy"
+        ]
+    },
+    {
+        "filename": "PLK - All Night",
+        "artist": "PLK",
+        "title": "All Night",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Viral",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Zion & Lennox - Yo Voy",
+        "artist": "Zion & Lennox",
+        "title": "Yo Voy",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Party",
+            "Dance"
+        ]
+    }
+]

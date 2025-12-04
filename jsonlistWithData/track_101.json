@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Drake & Central Cee - On The Radar Freestyle (HH Dirty Intro)",
+        "artist": "Drake & Central Cee",
+        "title": "On The Radar Freestyle",
+        "main_genre": "URBAN",
+        "sub_genre": "Freestyle",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Freestyle",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Miley Cyrus - Flowers (Extended Mix)",
+        "artist": "Miley Cyrus",
+        "title": "Flowers (Extended Mix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Pop",
+            "Radio Hit",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Ninho - Un Poco",
+        "artist": "Ninho",
+        "title": "Un Poco",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Rap",
+            "French",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Katy Perry - Firework (Extended Mix By Fuvi Clan)",
+        "artist": "Katy Perry",
+        "title": "Firework (Extended Mix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Anthem",
+            "Pop",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Le classico organisé - Le classico organisé",
+        "artist": "Le classico organisé",
+        "title": "Le classico organisé",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Rap",
+            "French",
+            "Collaboration"
+        ]
+    },
+    {
+        "filename": "Naps Ft. Gazo - Vamos (Extended Mix By Fuvi Clan)",
+        "artist": "Naps Ft. Gazo",
+        "title": "Vamos (Extended Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Rap",
+            "French",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Zola - Cartier Panthere (Dirty)",
+        "artist": "Zola",
+        "title": "Cartier Panthere",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Trap",
+            "French",
+            "Street"
+        ]
+    },
+    {
+        "filename": "Aya Nakamura - Baddies",
+        "artist": "Aya Nakamura",
+        "title": "Baddies",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Afro",
+            "Viral",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Jul - Italia (Extended Mix By Fuvi Clan)",
+        "artist": "Jul",
+        "title": "Italia (Extended Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Rap",
+            "French",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Fifth Harmony - Worth It (feat. Kid Ink)",
+        "artist": "Fifth Harmony",
+        "title": "Worth It (feat. Kid Ink)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Pop",
+            "Club",
+            "Hit"
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Hornet La Frappe Ft. Ninho - Gasolina (Extended Mix By Fuvi Clan)",
+        "artist": "Hornet La Frappe Ft. Ninho",
+        "title": "Gasolina (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Collaboration"
+        ]
+    },
+    {
+        "filename": "Daft Punk - One More Time",
+        "artist": "Daft Punk",
+        "title": "One More Time",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "French Touch",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Anthem",
+            "Party"
+        ]
+    },
+    {
+        "filename": "Eminem - Lose Yourself (HH Dirty Intro)",
+        "artist": "Eminem",
+        "title": "Lose Yourself (HH Dirty Intro)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap US",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Motivational",
+            "Iconic",
+            "Anthem"
+        ]
+    },
+    {
+        "filename": "Beyonce & Dj Serg - Crazy In Love (Dj Sayze Edit)",
+        "artist": "Beyonce & Dj Serg",
+        "title": "Crazy In Love (Dj Sayze Edit)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Dancefloor",
+            "Classic"
+        ]
+    },
+    {
+        "filename": "Jessie J, Ariana Grande & Nicki Minaj - Bang Bang (Aftermät Extended Edit)",
+        "artist": "Jessie J, Ariana Grande & Nicki Minaj",
+        "title": "Bang Bang (Aftermät Extended Edit)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Collaboration",
+            "Hit",
+            "Energetic"
+        ]
+    },
+    {
+        "filename": "Afro B - Drogba (Joanna)",
+        "artist": "Afro B",
+        "title": "Drogba (Joanna)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Afrobeats",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Snoop Dogg - Sweat (Snoop Dogg vs David Guetta Remix)",
+        "artist": "Snoop Dogg",
+        "title": "Sweat (Snoop Dogg vs David Guetta Remix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Dance",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Club",
+            "Party"
+        ]
+    },
+    {
+        "filename": "Sasso - Elle veut",
+        "artist": "Sasso",
+        "title": "Elle veut",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Chill",
+            "French"
+        ]
+    },
+    {
+        "filename": "Dr. Yaro - Que Pasa (Extended Mix By Fuvi Clan)",
+        "artist": "Dr. Yaro",
+        "title": "Que Pasa (Extended Mix By Fuvi Clan)",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Dance",
+            "Party",
+            "Latin"
+        ]
+    },
+    {
+        "filename": "Jul - Love De Toi (Extended Mix By Fuvi Clan)",
+        "artist": "Jul",
+        "title": "Love De Toi (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Popular",
+            "French",
+            "Dance"
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "filename": "Rihanna - Disturbia",
+        "artist": "Rihanna",
+        "title": "Disturbia",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Club",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Rema - Charm",
+        "artist": "Rema",
+        "title": "Charm",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Afrobeat"
+        ]
+    },
+    {
+        "filename": "Macklemore Ft. Wanz - Thrift Shop (Extended Mix By Fuvi Clan)",
+        "artist": "Macklemore Ft. Wanz",
+        "title": "Thrift Shop (Extended Mix By Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Hip-hop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Banger",
+            "Club"
+        ]
+    },
+    {
+        "filename": "1da Banton - No Wahala",
+        "artist": "1da Banton",
+        "title": "No Wahala",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Afrobeat"
+        ]
+    },
+    {
+        "filename": "Werenoi, GIMS - Piano (DEZIR French Club Remix)",
+        "artist": "Werenoi, GIMS",
+        "title": "Piano (DEZIR French Club Remix)",
+        "main_genre": "URBAN",
+        "sub_genre": "French Rap",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Club",
+            "Banger"
+        ]
+    },
+    {
+        "filename": "Heuss L'Enfoire Ft. Ninho - La Marseillaise (DJ R'an Edit)",
+        "artist": "Heuss L'Enfoire Ft. Ninho",
+        "title": "La Marseillaise (DJ R'an Edit)",
+        "main_genre": "URBAN",
+        "sub_genre": "French Rap",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Edit",
+            "Club",
+            "Banger"
+        ]
+    },
+    {
+        "filename": "Katy Perry - California Gurls (Daevo Remix)",
+        "artist": "Katy Perry",
+        "title": "California Gurls (Daevo Remix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Britney Spears - Gimme More",
+        "artist": "Britney Spears",
+        "title": "Gimme More",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Club",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Zola - Wow (Dirty)",
+        "artist": "Zola",
+        "title": "Wow (Dirty)",
+        "main_genre": "URBAN",
+        "sub_genre": "French Rap",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Rap"
+        ]
+    },
+    {
+        "filename": "Gims - Appelle Ta Copine (Enzo Gala Edit)",
+        "artist": "Gims",
+        "title": "Appelle Ta Copine (Enzo Gala Edit)",
+        "main_genre": "URBAN",
+        "sub_genre": "French Rap",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Edit",
+            "Club",
+            "Banger"
+        ]
+    }
+]
