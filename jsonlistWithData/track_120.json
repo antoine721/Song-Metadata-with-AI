@@ -1,0 +1,125 @@
+[
+    {
+        "filename": "Rihanna - Diamonds (Main)",
+        "artist": "Rihanna",
+        "title": "Diamonds",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Hit",
+            "Club",
+            "Anthem"
+        ]
+    },
+    {
+        "filename": "Genezio - EL GEMANO",
+        "artist": "Genezio",
+        "title": "EL GEMANO",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Dance",
+            "Party"
+        ]
+    },
+    {
+        "filename": "SCH - Champs-Élysées (Extended Mix By Fuvi Clan)",
+        "artist": "SCH",
+        "title": "Champs-Élysées",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Street",
+            "Vibe"
+        ]
+    },
+    {
+        "filename": "Zola - 9 1 1 3 (feat. SCH)",
+        "artist": "Zola",
+        "title": "9 1 1 3 (feat. SCH)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Collab",
+            "Street"
+        ]
+    },
+    {
+        "filename": "Dj Kayz Ft. Niska - Monte Le Son (Extended Mix By Fuvi Clan)",
+        "artist": "Dj Kayz Ft. Niska",
+        "title": "Monte Le Son",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Viral"
+        ]
+    },
+    {
+        "filename": "Daft Punk - High Life",
+        "artist": "Daft Punk",
+        "title": "High Life",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "French Touch",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "Groove"
+        ]
+    },
+    {
+        "filename": "Alliance Ethnik Ft. Vinia Mojica - Respect (Extended Mix By Fuvi Clan)",
+        "artist": "Alliance Ethnik Ft. Vinia Mojica",
+        "title": "Respect",
+        "main_genre": "OLDIES",
+        "sub_genre": "Hip-hop FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Nostalgie",
+            "Feel-good"
+        ]
+    },
+    {
+        "filename": "Beyoncé - Naughty Girl (Extended Mix By Fuvi Clan)",
+        "artist": "Beyoncé",
+        "title": "Naughty Girl",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "R&B",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Sexy",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Jul - Assassinat (Extended Mix By Fuvi Clan)",
+        "artist": "Jul",
+        "title": "Assassinat",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Street",
+            "Vibe"
+        ]
+    },
+    {
+        "filename": "Zola Ft. Ninho - Papers (Dj R'an Edit)",
+        "artist": "Zola Ft. Ninho",
+        "title": "Papers",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Collab",
+            "Viral"
+        ]
+    }
+]

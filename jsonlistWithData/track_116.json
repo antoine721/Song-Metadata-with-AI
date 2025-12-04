@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Flo Rida - GDFR (feat. Sage the Gemini & Lookas)",
+        "artist": "Flo Rida",
+        "title": "GDFR (feat. Sage the Gemini & Lookas)",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Vegedream - Elle est bonne sa mère",
+        "artist": "Vegedream",
+        "title": "Elle est bonne sa mère",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Pitbull - I Know You Want Me (Extended Mix)",
+        "artist": "Pitbull",
+        "title": "I Know You Want Me (Extended Mix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Bad Bunny - MIA",
+        "artist": "Bad Bunny",
+        "title": "MIA",
+        "main_genre": "LATINO",
+        "sub_genre": "Reggaeton",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Naps Ft. SCH - La Danse Des Bandits (Extended Mix By Fuvi Clan)",
+        "artist": "Naps Ft. SCH",
+        "title": "La Danse Des Bandits (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Damso - Ipséité (Dj Ni2ls Club Mix)",
+        "artist": "Damso",
+        "title": "Ipséité (Dj Ni2ls Club Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Remix",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Destiny's Child - Survivor (Original Mix)",
+        "artist": "Destiny's Child",
+        "title": "Survivor (Original Mix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Banger",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Lil Uzi Vert - Just Wanna Rock (Extended Mix)",
+        "artist": "Lil Uzi Vert",
+        "title": "Just Wanna Rock (Extended Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Duck Sauce - aNYway [Club Mix]",
+        "artist": "Duck Sauce",
+        "title": "aNYway [Club Mix]",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "House",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Freeze Corleone Ft. Alpha Wann - Rap Catéchisme (Fienfiej Re-work)",
+        "artist": "Freeze Corleone Ft. Alpha Wann",
+        "title": "Rap Catéchisme (Fienfiej Re-work)",
+        "main_genre": "URBAN",
+        "sub_genre": "Drill FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Remix",
+            "Hit"
+        ]
+    }
+]

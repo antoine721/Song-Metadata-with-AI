@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Avicii - Wake Me Up",
+        "artist": "Avicii",
+        "title": "Wake Me Up",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "EDM",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Festival",
+            "Anthem"
+        ]
+    },
+    {
+        "filename": "Outkast - Hey Ya! (Radio Mix / Club Mix)",
+        "artist": "Outkast",
+        "title": "Hey Ya! (Radio Mix / Club Mix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Party",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Niska - Bâtiment (Extended Mix By Fuvi Clan)",
+        "artist": "Niska",
+        "title": "Bâtiment (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Banger",
+            "French"
+        ]
+    },
+    {
+        "filename": "Aya Nakamura Ft. Damso - Degaine (N-One Edit)",
+        "artist": "Aya Nakamura Ft. Damso",
+        "title": "Degaine (N-One Edit)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Collab"
+        ]
+    },
+    {
+        "filename": "Snoop Dogg ft Uncle Charlie Wilson & Pharrell - Beautiful (HH Dirty Short)",
+        "artist": "Snoop Dogg ft Uncle Charlie Wilson & Pharrell",
+        "title": "Beautiful (HH Dirty Short)",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop US",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "Smooth",
+            "West Coast"
+        ]
+    },
+    {
+        "filename": "Daddy DJ - Daddy DJ (Chico & Tonio Radio Edit / Remastered 2025)",
+        "artist": "Daddy DJ",
+        "title": "Daddy DJ (Chico & Tonio Radio Edit / Remastered 2025)",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "Eurodance",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Nostalgic",
+            "Dance",
+            "Remastered"
+        ]
+    },
+    {
+        "filename": "Jul - Alors La Zone (Extended Mix By Fuvi Clan)",
+        "artist": "Jul",
+        "title": "Alors La Zone (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Banger",
+            "French"
+        ]
+    },
+    {
+        "filename": "Gradur Ft. Hamza - Mon BB (Extended Mix By Fuvi Clan)",
+        "artist": "Gradur Ft. Hamza",
+        "title": "Mon BB (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Collab",
+            "French"
+        ]
+    },
+    {
+        "filename": "La Mano 1.9 - I'm Sorry",
+        "artist": "La Mano 1.9",
+        "title": "I'm Sorry",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "French",
+            "Chill"
+        ]
+    },
+    {
+        "filename": "Miley Cyrus x Tiesto - Party In The USA With Jackie Chan (Dramos Bootleg)",
+        "artist": "Miley Cyrus x Tiesto",
+        "title": "Party In The USA With Jackie Chan (Dramos Bootleg)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop Remix",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Mashup",
+            "Party",
+            "Remix"
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Snoop Dogg - Sensual Seduction (HH Dirty Intro)",
+        "artist": "Snoop Dogg",
+        "title": "Sensual Seduction",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "Smooth",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Fatboy Slim - Praise You (Purple Disco Machine Remix) (Radio Edit)",
+        "artist": "Fatboy Slim",
+        "title": "Praise You (Purple Disco Machine Remix)",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "Nu-Disco",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groovy",
+            "Remix",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Daft Punk - Da Funk",
+        "artist": "Daft Punk",
+        "title": "Da Funk",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "French Touch",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "Groovy",
+            "Iconic"
+        ]
+    },
+    {
+        "filename": "SCH Ft. Ninho - Mayday (Extended Mix By Fuvi Clan)",
+        "artist": "SCH Ft. Ninho",
+        "title": "Mayday",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Collab",
+            "French",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Timbaland - The Way I Are",
+        "artist": "Timbaland",
+        "title": "The Way I Are",
+        "main_genre": "URBAN",
+        "sub_genre": "R&B",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Classic",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Migos - T-Shirt (HH Dirty Intro)",
+        "artist": "Migos",
+        "title": "T-Shirt",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Trap",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Nicki Minaj ft Ice Spice & Aqua - Barbie World (HH Dirty Intro)",
+        "artist": "Nicki Minaj ft Ice Spice & Aqua",
+        "title": "Barbie World",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Indochine - L'aventurier",
+        "artist": "Indochine",
+        "title": "L'aventurier",
+        "main_genre": "OLDIES",
+        "sub_genre": "Rock FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "French",
+            "Nostalgic"
+        ]
+    },
+    {
+        "filename": "Shay - Jolie Go (Extended Mix By Fuvi Clan)",
+        "artist": "Shay",
+        "title": "Jolie Go",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "French",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Icona Pop - I Love It (feat. Charli XCX)",
+        "artist": "Icona Pop",
+        "title": "I Love It",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Party",
+            "Club"
+        ]
+    }
+]

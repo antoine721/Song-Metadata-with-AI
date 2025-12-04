@@ -1,0 +1,125 @@
+[
+    {
+        "filename": "Britney Spears - I Wanna Go",
+        "artist": "Britney Spears",
+        "title": "I Wanna Go",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Tayc - Dis Moi Comment (Extended Mix By Fuvi Clan)",
+        "artist": "Tayc",
+        "title": "Dis Moi Comment (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Afrobeat"
+        ]
+    },
+    {
+        "filename": "Benny Benassi - Satisfaction (Uk Radio Edit)",
+        "artist": "Benny Benassi",
+        "title": "Satisfaction (Uk Radio Edit)",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "Electro House",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Banger",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Kaaris - Goulag (Extended Mix By Fuvi Clan)",
+        "artist": "Kaaris",
+        "title": "Goulag (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Drill FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Theodora, Jul - Zou Bisou (Extended Mix By Fuvi Clan)",
+        "artist": "Theodora, Jul",
+        "title": "Zou Bisou (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Afrobeat"
+        ]
+    },
+    {
+        "filename": "Cardi B & Megan Thee Stallion - WAP (HH Dirty Intro)",
+        "artist": "Cardi B & Megan Thee Stallion",
+        "title": "WAP (HH Dirty Intro)",
+        "main_genre": "URBAN",
+        "sub_genre": "Hip-hop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "ROSE & Bruno Mars - APT. (Da Phonk & Funky J Shatta Remix)",
+        "artist": "ROSE & Bruno Mars",
+        "title": "APT. (Da Phonk & Funky J Shatta Remix)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Remix",
+            "Dancehall"
+        ]
+    },
+    {
+        "filename": "Maes Ft Booba - Madrina (Original Mix)",
+        "artist": "Maes Ft Booba",
+        "title": "Madrina (Original Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Breakbot - Fantasy",
+        "artist": "Breakbot",
+        "title": "Fantasy",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "Nu-Disco",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Chill"
+        ]
+    },
+    {
+        "filename": "Superfunk - Lucky Star (Radio Edit)",
+        "artist": "Superfunk",
+        "title": "Lucky Star (Radio Edit)",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "French Touch",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Classic",
+            "Club"
+        ]
+    }
+]

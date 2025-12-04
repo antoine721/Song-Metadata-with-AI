@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Nahir - Piranha (feat. Vacra)",
+        "artist": "Nahir",
+        "title": "Piranha (feat. Vacra)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Collaboration",
+            "Rap",
+            "French"
+        ]
+    },
+    {
+        "filename": "Niska - Reseaux (Tony B Intro 8 Bars)",
+        "artist": "Niska",
+        "title": "Reseaux (Tony B Intro 8 Bars)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Club",
+            "French"
+        ]
+    },
+    {
+        "filename": "Sexion D'Assaut - Ma Direction (Extended Mix By Fuvi Clan)",
+        "artist": "Sexion D'Assaut",
+        "title": "Ma Direction (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Classic",
+            "French",
+            "Rap"
+        ]
+    },
+    {
+        "filename": "Shakira - Whenever, Wherever (ZIGGY & Chick Flix Remix)",
+        "artist": "Shakira",
+        "title": "Whenever, Wherever (ZIGGY & Chick Flix Remix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop Remix",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Remix",
+            "Pop",
+            "Dance"
+        ]
+    },
+    {
+        "filename": "Calvin Harris Ft. Pharrell Williams, Katy Perry, & Big Sean - Feels (Danny Dove Remix)",
+        "artist": "Calvin Harris Ft. Pharrell Williams, Katy Perry, & Big Sean",
+        "title": "Feels (Danny Dove Remix)",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "House",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Remix",
+            "Dance",
+            "Collaboration"
+        ]
+    },
+    {
+        "filename": "Gradur & Franglish - Trucs De Choses (Extended Mix By Fuvi Clan)",
+        "artist": "Gradur & Franglish",
+        "title": "Trucs De Choses (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Collaboration",
+            "French",
+            "Rap"
+        ]
+    },
+    {
+        "filename": "Daft Punk - Around the World",
+        "artist": "Daft Punk",
+        "title": "Around the World",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "French Touch",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "Dance",
+            "Electronic"
+        ]
+    },
+    {
+        "filename": "Mohombi - Bumpy Ride",
+        "artist": "Mohombi",
+        "title": "Bumpy Ride",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Dance",
+            "Pop"
+        ]
+    },
+    {
+        "filename": "Alabina - Alabina (Extended Mix By Fuvi Clan)",
+        "artist": "Alabina",
+        "title": "Alabina (Extended Mix By Fuvi Clan)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "World",
+        "energy_level": 3,
+        "vibe_tags": [
+            "World",
+            "Dance",
+            "Fusion"
+        ]
+    },
+    {
+        "filename": "Gims, Jul - Air Force Blanche (Extended Mix By Fuvi Clan)",
+        "artist": "Gims, Jul",
+        "title": "Air Force Blanche (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Collaboration",
+            "French",
+            "Rap"
+        ]
+    }
+]

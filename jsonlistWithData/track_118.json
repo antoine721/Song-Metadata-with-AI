@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Black Eyed Peas - Let's Get It Started (Spike Mix)",
+        "artist": "Black Eyed Peas",
+        "title": "Let's Get It Started (Spike Mix)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Party",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Hamza - Murder (Extended Mix By Fuvi Clan)",
+        "artist": "Hamza",
+        "title": "Murder (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Street",
+            "Intense",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Cardi B - Bodak Yellow (Original Mix)",
+        "artist": "Cardi B",
+        "title": "Bodak Yellow (Original Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap US",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "SDM Ft. Tiakola - Redescends (Extended Mix By Fuvi Clan)",
+        "artist": "SDM Ft. Tiakola",
+        "title": "Redescends (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Groovy",
+            "Street",
+            "Club"
+        ]
+    },
+    {
+        "filename": "SCH Ft. Freeze Corleone - Mannschaft (Parallel Remix)",
+        "artist": "SCH Ft. Freeze Corleone",
+        "title": "Mannschaft (Parallel Remix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Drill FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Dark",
+            "Intense",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Sean Paul - She Doesn't Mind",
+        "artist": "Sean Paul",
+        "title": "She Doesn't Mind",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Dancehall",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Party",
+            "Dance",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Alonzo - Binta",
+        "artist": "Alonzo",
+        "title": "Binta",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Street",
+            "Groovy",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Niska - Chasse à l'homme",
+        "artist": "Niska",
+        "title": "Chasse à l'homme",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Street",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Theodora - PAY!",
+        "artist": "Theodora",
+        "title": "PAY!",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "House",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groovy",
+            "Chill",
+            "Lounge"
+        ]
+    },
+    {
+        "filename": "Bob Sinclar - Romantico Starlight (feat. Robbie Williams)",
+        "artist": "Bob Sinclar",
+        "title": "Romantico Starlight (feat. Robbie Williams)",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "French Touch",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Chill",
+            "Groovy",
+            "Lounge"
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "filename": "Ski Mask The Slump God, XXXTENTACION - Take A Step Back (Original Mix)",
+        "artist": "Ski Mask The Slump God, XXXTENTACION",
+        "title": "Take A Step Back",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Hype"
+        ]
+    },
+    {
+        "filename": "Destiny's Child - Independent Women,Pt.1",
+        "artist": "Destiny's Child",
+        "title": "Independent Women, Pt. 1",
+        "main_genre": "URBAN",
+        "sub_genre": "R&B",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "Empowerment",
+            "Groove"
+        ]
+    },
+    {
+        "filename": "David Guetta - Titanium (feat. Sia)",
+        "artist": "David Guetta",
+        "title": "Titanium (feat. Sia)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "EDM",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Anthem",
+            "Powerful",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Saweetie - My Type (DI VANNI Shatta Remix)",
+        "artist": "Saweetie",
+        "title": "My Type (DI VANNI Shatta Remix)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Dancehall",
+            "Party"
+        ]
+    },
+    {
+        "filename": "Fire Flowerz - In the Night",
+        "artist": "Fire Flowerz",
+        "title": "In the Night",
+        "main_genre": "ELECTRONIC",
+        "sub_genre": "House",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groovy",
+            "Dance",
+            "Night"
+        ]
+    },
+    {
+        "filename": "Daft Punk - Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+        "artist": "Daft Punk",
+        "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "Nu-Disco",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Feel-Good",
+            "Dancefloor"
+        ]
+    },
+    {
+        "filename": "French Affair - My Heart Goes Boom",
+        "artist": "French Affair",
+        "title": "My Heart Goes Boom",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Eurodance",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Catchy",
+            "Dance",
+            "2000s"
+        ]
+    },
+    {
+        "filename": "Rihanna - Diamonds (HH Clean Intro)",
+        "artist": "Rihanna",
+        "title": "Diamonds",
+        "main_genre": "URBAN",
+        "sub_genre": "Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Anthem",
+            "Emotional",
+            "Hit"
+        ]
+    },
+    {
+        "filename": "Kesha - Blah Blah Blah (feat. 3OH!3)",
+        "artist": "Kesha",
+        "title": "Blah Blah Blah (feat. 3OH!3)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Electropop",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Party",
+            "Fun",
+            "2000s"
+        ]
+    },
+    {
+        "filename": "Gradur, L2B - Congolaise (Extended Mix By Fuvi Clan)",
+        "artist": "Gradur, L2B",
+        "title": "Congolaise (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Dance",
+            "Afrobeat",
+            "Vibe"
+        ]
+    }
+]

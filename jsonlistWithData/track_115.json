@@ -1,0 +1,128 @@
+[
+    {
+        "filename": "Dj Leska, Shannon, Taliixo Beatz - Capitaine (Extended Mix By Fuvi Clan)",
+        "artist": "Dj Leska, Shannon, Taliixo Beatz",
+        "title": "Capitaine (Extended Mix By Fuvi Clan)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Dancehall",
+            "Antilles"
+        ]
+    },
+    {
+        "filename": "GIMS, Damso - Tu Me Rend Bête (Extended Mix By Fuvi Clan)",
+        "artist": "GIMS, Damso",
+        "title": "Tu Me Rend Bête (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Collaboration",
+            "French Rap"
+        ]
+    },
+    {
+        "filename": "PLK - Copine",
+        "artist": "PLK",
+        "title": "Copine",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "French Rap"
+        ]
+    },
+    {
+        "filename": "Keblack - Laisse Moi (Extended Mix By Fuvi Clan)",
+        "artist": "Keblack",
+        "title": "Laisse Moi (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Afrobeat",
+            "Groove"
+        ]
+    },
+    {
+        "filename": "Black Eyed Peas - Boom Boom Pow",
+        "artist": "Black Eyed Peas",
+        "title": "Boom Boom Pow",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "2000s Hit"
+        ]
+    },
+    {
+        "filename": "Mc Kevinho - Olha A Explosão",
+        "artist": "Mc Kevinho",
+        "title": "Olha A Explosão",
+        "main_genre": "LATINO",
+        "sub_genre": "Funk Carioca",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Viral",
+            "Brazilian",
+            "Party"
+        ]
+    },
+    {
+        "filename": "Werenoi, Gunna - Gulfstream (Original Mix)",
+        "artist": "Werenoi, Gunna",
+        "title": "Gulfstream (Original Mix)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap",
+        "energy_level": 3,
+        "vibe_tags": [
+            "International",
+            "Collaboration"
+        ]
+    },
+    {
+        "filename": "Aya Nakamura - Pookie (La Hug's Shatta Remix)",
+        "artist": "Aya Nakamura",
+        "title": "Pookie (La Hug's Shatta Remix)",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Remix",
+            "Club",
+            "Dancehall"
+        ]
+    },
+    {
+        "filename": "Black Eyed Peas - GIRL LIKE ME",
+        "artist": "Black Eyed Peas",
+        "title": "GIRL LIKE ME",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Pop",
+            "Dance",
+            "Collaboration"
+        ]
+    },
+    {
+        "filename": "P.L.L - Shattiment",
+        "artist": "P.L.L",
+        "title": "Shattiment",
+        "main_genre": "SHATTA_BOUYON",
+        "sub_genre": "Shatta",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Club",
+            "Dancehall",
+            "Antilles"
+        ]
+    }
+]

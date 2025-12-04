@@ -1,0 +1,41 @@
+[
+    {
+        "filename": "Destiny's Child - Say My Name (Extended Version)",
+        "artist": "Destiny's Child",
+        "title": "Say My Name (Extended Version)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "R&B",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Classic",
+            "R&B",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Lacrim, We Renoi - Senor De Los Gallos (Extended Mix By Fuvi Clan)",
+        "artist": "Lacrim, We Renoi",
+        "title": "Senor De Los Gallos (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Rap",
+            "French",
+            "Groove"
+        ]
+    },
+    {
+        "filename": "Major Lazer - Lean On (feat. MØ & DJ Snake)",
+        "artist": "Major Lazer",
+        "title": "Lean On (feat. MØ & DJ Snake)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Dancehall/EDM",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Hit",
+            "Viral",
+            "Club"
+        ]
+    }
+]

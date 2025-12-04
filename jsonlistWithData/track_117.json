@@ -1,0 +1,124 @@
+[
+    {
+        "filename": "Gazo - NO LÈCHE",
+        "artist": "Gazo",
+        "title": "NO LÈCHE",
+        "main_genre": "URBAN",
+        "sub_genre": "Drill FR",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Banger",
+            "Club",
+            "Viral"
+        ]
+    },
+    {
+        "filename": "Franglish - Position (Extended Mix By Fuvi Clan)",
+        "artist": "Franglish",
+        "title": "Position (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Afro-Urban",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Jul - Superstar (Extended Mix By Fuvi Clan)",
+        "artist": "Jul",
+        "title": "Superstar (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Benjamin Diamond - In Your Arms (We Gonna Make It)",
+        "artist": "Benjamin Diamond",
+        "title": "In Your Arms (We Gonna Make It)",
+        "main_genre": "DISCO_FUNK",
+        "sub_genre": "French Touch",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Retro"
+        ]
+    },
+    {
+        "filename": "Íñigo Quintero - Si No Estás",
+        "artist": "Íñigo Quintero",
+        "title": "Si No Estás",
+        "main_genre": "LATINO",
+        "sub_genre": "Latin Pop",
+        "energy_level": 2,
+        "vibe_tags": [
+            "Chill",
+            "Romantic"
+        ]
+    },
+    {
+        "filename": "Maes - Dybala",
+        "artist": "Maes",
+        "title": "Dybala",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "SDM - Bolide allemand",
+        "artist": "SDM",
+        "title": "Bolide allemand",
+        "main_genre": "URBAN",
+        "sub_genre": "Trap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Rihanna - Umbrella (Radio Edit)",
+        "artist": "Rihanna",
+        "title": "Umbrella (Radio Edit)",
+        "main_genre": "OPEN_FORMAT",
+        "sub_genre": "Pop",
+        "energy_level": 5,
+        "vibe_tags": [
+            "Classic",
+            "Banger",
+            "Club"
+        ]
+    },
+    {
+        "filename": "Booba - Dolce Camara",
+        "artist": "Booba",
+        "title": "Dolce Camara",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 3,
+        "vibe_tags": [
+            "Groove",
+            "Street"
+        ]
+    },
+    {
+        "filename": "Vacra, PLK - Confidences (Extended Mix By Fuvi Clan)",
+        "artist": "Vacra, PLK",
+        "title": "Confidences (Extended Mix By Fuvi Clan)",
+        "main_genre": "URBAN",
+        "sub_genre": "Rap FR",
+        "energy_level": 4,
+        "vibe_tags": [
+            "Hit",
+            "Club"
+        ]
+    }
+]
